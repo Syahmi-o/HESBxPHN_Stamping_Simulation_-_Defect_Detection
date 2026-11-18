@@ -1,0 +1,6 @@
+{
+  "name": "HICOM Engineering – Stamping Simulation & Defect Detection Dashboard",
+  "description": "Interactive 3D metal stamping simulation, process planning, and AI automated defect detection dashboard for HICOM Engineering Sdn Bhd automotive manufacturing.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
